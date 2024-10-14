@@ -1,4 +1,4 @@
-﻿#include"Cube_Rubik.h"
+﻿#include"CubeRubik.h"
 #include<iostream>
 
 using namespace std;
@@ -259,6 +259,7 @@ void Cube::randomize()
 }
 
 
+/*
 int main() {
 
     int a;
@@ -295,3 +296,4 @@ int main() {
 
     return 0;
 }
+*/
